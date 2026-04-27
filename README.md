@@ -8,10 +8,11 @@ Each project is contained within its own directory and includes a dedicated Jupy
 | Project | Type | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | [California Housing](./01-California-Housing-Regression) | Regression | Scikit-Learn, Pandas | ✅ Completed |
+| [Titanic Survival](./02-Titanic-Classification) | Classification | Scikit-Learn, Seaborn | ✅ Completed |
 | Iris Classification | Classification | TBD | 🏗️ Coming Soon |
 
 ## 🛠️ General Setup
-1. Clone the repo: `git clone https://github.com/shashankJ52/DS-Mini-Projects.git`
+1. Clone the repo: `git clone https://github.com/shashankJ52/DataScience-Mini-Projects`
 2. Navigate to a project folder.
 3. Create a virtual environment and install dependencies:
    ```bash
